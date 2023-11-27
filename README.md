@@ -47,29 +47,29 @@ Ce système apporte plusieurs avantages, notamment :
 ![use-case](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/3b44577b-b2f8-4837-a0ea-8a048b24e76b)
 
      3. Product Backlog:
-
-   ![WhatsApp Image 2023-11-22 at 00 02 02](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/419b44a6-e8a0-477d-b76d-77e0be2da8a5)
-
+![product backlog](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/65bc1d4b-aaea-4e9a-a6b8-a5aa7b37c449)
+  
 
   Nous avons choisi d’étudier ce projet à l’aide de la méthode Agile (Scrum), car c’est une approche itérative et incrémentale de gestion de projet qui mise sur la collaboration et la flexibilité plutôt que sur une planification rigide et linéaire. Elle se base sur des valeurs telles que la satisfaction du client, l'adaptation au changement, le travail en équipe et la livraison continue de produits fonctionnels.
     
    Pour organiser notre travail que sera basé sur la méthode SCRUM : On va utiliser la plateforme Jira Software.
-                               <img width="360" alt="Capture d’écran 2023-11-25 010234" src="https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/e4bdebd8-c62e-4fe4-bb7e-312bc84a806c">
+                               <img width="360" alt="logo-jira" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f92eda98-1c3a-4956-b121-46ab532f2534">
 
+                               
   On a commencé par une réunion de planification pour préciser le product backlog, et les résultats obtenus sont les suivants :
 
-![WhatsApp Image 2023-11-22 at 00 14 31](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/97f287aa-5177-402a-8aa4-0d16630dfa31)
+![après jira](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/4628cce8-37bd-4531-948c-9142401ad6ec)
 
     4. Liste des Sprints:
- ![WhatsApp Image 2023-11-22 at 22 47 40](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/57cb82f0-6e8b-4430-b7ec-5d715897c692)
+![liste des sprints](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/59a735e9-484e-4c1f-8abe-338322e4870f)
 
     5. Backlog des Sprints:
 
    Tableau Sprint 1:
-  ![WhatsApp Image 2023-11-22 at 00 28 33](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/20884538-cca1-4228-bd82-ebbcc86972ca)
+ ![tab sprint 1](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/b1bbff6a-94d7-48a6-afa9-17d6fece6489)
 
   Réunion 1:
-  ![WhatsApp Image 2023-11-22 at 00 31 33](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/febcb947-c876-4801-b2dd-cceb3b1e25bb)
+ ![réunion 1](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/890ff6fe-34d4-45d3-9830-faad105991f2)
 
   Réunion 2:
   ![WhatsApp Image 2023-11-22 at 00 32 31](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/4d8899d5-9e9c-48af-9040-542913bfa67b)
