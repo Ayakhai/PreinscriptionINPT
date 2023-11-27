@@ -1,4 +1,4 @@
-💻 PROJET DE DÉVELOPPEMENT WEB AVEC J2EE 💻
+                                         💻 PROJET DE DÉVELOPPEMENT WEB AVEC J2EE 💻
                                   Conception et création d'une application de Préinscription-INPT
         
         
@@ -72,25 +72,26 @@ Ce système apporte plusieurs avantages, notamment :
  ![réunion 1](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/890ff6fe-34d4-45d3-9830-faad105991f2)
 
   Réunion 2:
-  ![WhatsApp Image 2023-11-22 at 00 32 31](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/4d8899d5-9e9c-48af-9040-542913bfa67b)
+ ![réunion 2](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/6d0b226a-9e05-43fb-bdf0-f8f8adb17a78)
 
   Réunion 3:
-  ![WhatsApp Image 2023-11-22 at 00 33 14](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/2219e014-9cbe-4cdc-b563-b689d2ac7ab1)
+ ![réunion 3](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/31ecdb06-e4a3-4f82-a509-2409be3eeb71)
 
    Tableau Sprint 2:
- ![WhatsApp Image 2023-11-22 at 00 37 09](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/bde57daa-d0fc-415c-abeb-422b59271fb0)
+![tab sprint 2](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f038280d-21d6-4443-88bf-4f0be6c18c70)
 
  Réunion 1:
- ![WhatsApp Image 2023-11-22 at 00 38 27](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/6d133a0a-b55e-4046-ba73-55a3ef538182)
+![reu 2 1](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/be666c4b-05c3-47df-ad78-4c20f286fc52)
 
  Réunion 2:
- ![WhatsApp Image 2023-11-22 at 00 39 10](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/bf122170-c2e0-40b9-bf99-2f88d02c7bdb)
+![reu 2 2](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/923f8fae-5180-45b6-b138-43ba5dabcb04)
+
 
  Réunion 3:
- ![WhatsApp Image 2023-11-22 at 00 40 02](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/7df53ae4-2e46-4239-8062-435088c93db7)
+ ![reu 23](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/abde4fab-9ce3-4d82-85b6-0e33935cc8e9)
 
    Tableau Sprint 3:
- ![WhatsApp Image 2023-11-22 at 00 44 32](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/2c72dbf8-a5f6-4dd9-aab1-e6491090b7ba)
+![tab sprint 3](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/5c8e476c-5b7f-4638-9297-101572858ed5)
 
 Réunion 1:
 ![WhatsApp Image 2023-11-22 at 00 46 05](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/1e5d2316-eaa9-4530-9124-49e18f35b27d)
