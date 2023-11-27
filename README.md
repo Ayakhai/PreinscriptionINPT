@@ -104,6 +104,48 @@ Réunion 2:
     6. Interfaces de l'application: Préinscription-INPT
 ![inter](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/c6995e16-b4f3-4770-8ccc-d1648e989958)
 
+
 <img width="587" alt="intr2" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/55475a5e-5017-4df6-bcfb-53c2ba148278">
 
+
 <img width="585" alt="inter3" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f20ffd8e-8708-4192-9849-eb48cb33e3dd">
+
+
+    7. Data Base:
+
+CREATE DATABASE IF NOT EXISTS `inpt` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `inpt`;
+
+CREATE TABLE `etudiant` (
+  `idEtudiant` int(11) NOT NULL,
+  `codeEtudiant` varchar(255) NOT NULL,
+  `nom` varchar(255) NOT NULL,
+  `prenom` varchar(255) NOT NULL,
+  `categorie` varchar(255) NOT NULL,
+  `typeDeBac` varchar(255) NOT NULL,
+  `Note` int(255) NOT NULL,
+  `tel1` varchar(255) NOT NULL,
+  `tel2` varchar(255) NOT NULL,
+  `valider` varchar(255) NOT NULL DEFAULT 'validé',
+  `statut` varchar(255) NOT NULL DEFAULT 'disponible',
+  `Dimport` varchar(255) NOT NULL ,
+  `Reg` varchar(255) NOT NULL DEFAULT 'N.R',
+  `admission` varchar(1000) NOT NULL DEFAULT 'non admis'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+CREATE TABLE `user` (
+  `iduser` int(255) NOT NULL,
+  `username` varchar(1000) NOT NULL,
+  `password` varchar(1000) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+ALTER TABLE `etudiant`
+  ADD PRIMARY KEY (`idEtudiant`),
+  ADD UNIQUE KEY `codeEtudiant` (`codeEtudiant`);
+
+  ALTER TABLE `user`
+  ADD PRIMARY KEY (`iduser`);
+
+  ALTER TABLE `etudiant`
+  MODIFY `idEtudiant` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=123350;
+COMMIT;
