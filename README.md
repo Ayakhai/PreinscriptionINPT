@@ -32,7 +32,7 @@ Conclusion Générale
     Cette application va faciliter aux administrateurs la consultation des différents documents  de chaque étudiant. Donc on va minimiser le temps et le travail.
 
     1. Description du projet:
- Le système de préinscription universitaire est une application conçue pour simplifier et rationaliser le processus de préinscription des étudiants au sein de l'université. Développée pour être gérée par des administrateurs universitaires, cette application vise à optimiser l'expérience des étudiants ainsi que la gestion interne de l'université.
+ Le système de préinscription universitaire est une application conçue pour simplifier et rationaliser le processus de préinscription des étudiants au sein de l'université. Développée pour être gérée par des administrateurs universitaires, cette application vise à optimiser l'expérience des étudiants ainsi que la gestion interne de l'université. On a développer cette application en utilisant JEE.
 
   Avantages :
 Ce système apporte plusieurs avantages, notamment :
@@ -149,3 +149,13 @@ ALTER TABLE `etudiant`
   ALTER TABLE `etudiant`
   MODIFY `idEtudiant` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=123350;
 COMMIT;
+
+
+                    Conclusion Générale:
+
+  La réalisation de cette application de préinscription représente bien plus qu'un simple projet. C'est le fruit d'une collaboration passionnante, alliant créativité, ingéniosité technique et engagement envers la facilitation des processus administratifs.
+  
+  En résumé, le projet de préinscription-INPT représente une contribution précieuse au domaine de l'enseignement supérieur en 
+simplifiant et en optimisant la gestion des processus académiques. Les perspectives d'avenir pour le projet sont 
+prometteuses, et nous sommes convaincu qu'il continuera à évoluer pour répondre aux besoins en constante évolution des 
+établissements d'enseignement et des étudiants. 
