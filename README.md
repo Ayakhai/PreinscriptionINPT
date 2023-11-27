@@ -44,7 +44,7 @@ Ce système apporte plusieurs avantages, notamment :
      2. Diagramme Use Case:
    Le diagramme de cas d'utilisation est un outil de modélisation visuelle utilisé dans l'ingénierie logicielle pour décrire les interactions entre les acteurs externes et un système logiciel.
    
-   ![WhatsApp Image 2023-11-21 at 23 40 11](https://github.com/Ayakhai/Preinscription-INPT/assets/130522193/f349126c-6476-42f2-897c-58020432f82f)
+![use-case](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/3b44577b-b2f8-4837-a0ea-8a048b24e76b)
 
      3. Product Backlog:
 
