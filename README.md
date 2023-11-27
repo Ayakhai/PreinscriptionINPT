@@ -20,6 +20,7 @@ Introduction Générale
 4. Liste des Sprints
 5. Backlog des Sprints
 6. Interfaces de l'application: Préinscripion-INPT
+7. Data Base
 
 Conclusion Générale
 
@@ -53,7 +54,8 @@ Ce système apporte plusieurs avantages, notamment :
   Nous avons choisi d’étudier ce projet à l’aide de la méthode Agile (Scrum), car c’est une approche itérative et incrémentale de gestion de projet qui mise sur la collaboration et la flexibilité plutôt que sur une planification rigide et linéaire. Elle se base sur des valeurs telles que la satisfaction du client, l'adaptation au changement, le travail en équipe et la livraison continue de produits fonctionnels.
     
    Pour organiser notre travail que sera basé sur la méthode SCRUM : On va utiliser la plateforme Jira Software.
-                               <img width="360" alt="logo-jira" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f92eda98-1c3a-4956-b121-46ab532f2534">
+   
+<img width="360" alt="logo-jira" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f92eda98-1c3a-4956-b121-46ab532f2534">
 
                                
   On a commencé par une réunion de planification pour préciser le product backlog, et les résultats obtenus sont les suivants :
@@ -101,3 +103,7 @@ Réunion 2:
 
     6. Interfaces de l'application: Préinscription-INPT
 ![inter](https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/c6995e16-b4f3-4770-8ccc-d1648e989958)
+
+<img width="587" alt="intr2" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/55475a5e-5017-4df6-bcfb-53c2ba148278">
+
+<img width="585" alt="inter3" src="https://github.com/Ayakhai/PreinscriptionINPT/assets/130522193/f20ffd8e-8708-4192-9849-eb48cb33e3dd">
