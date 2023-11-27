@@ -1,5 +1,5 @@
                                          💻 PROJET DE DÉVELOPPEMENT WEB AVEC J2EE 💻
-                                  Conception et création d'une application de Préinscription-INPT
+                                  Conception et création d'une application de Préinscription-INPT 
         
         
         Réalisé par :                                                                
